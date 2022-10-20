@@ -7,9 +7,4 @@ Figma Design Links:
 - Checkout: https://www.figma.com/file/sAfakw2fEUsAFRQGpBpQQ9/SmartCheckout_QR
 
 
-https://www.npmjs.com/package/react-native-qrcode-svg
-
-https://docs.expo.dev/versions/latest/sdk/bar-code-scanner/
-
-https://openbase.com/js/expo-payments-stripe
-
+A smart checkout app developed using React-Native in collaboration with 4 members as a part of Hackathon.
