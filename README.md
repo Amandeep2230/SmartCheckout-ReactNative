@@ -1,5 +1,7 @@
 # SmartCheckout
 
+A smart checkout app developed using React-Native in collaboration with 4 members as a part of Hackathon.
+
 Figma Design Links:
 
 - Home: https://www.figma.com/file/FZEpHx59JblLZlOnU0DdyI/SmartCheckout_Main
@@ -7,4 +9,4 @@ Figma Design Links:
 - Checkout: https://www.figma.com/file/sAfakw2fEUsAFRQGpBpQQ9/SmartCheckout_QR
 
 
-A smart checkout app developed using React-Native in collaboration with 4 members as a part of Hackathon.
+Cheers! Happy coding :)
