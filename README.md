@@ -9,4 +9,4 @@ Figma Design Links:
 - Checkout: https://www.figma.com/file/sAfakw2fEUsAFRQGpBpQQ9/SmartCheckout_QR
 
 
-Cheers! Happy coding :)
+Cheers! Happy Coding :)
